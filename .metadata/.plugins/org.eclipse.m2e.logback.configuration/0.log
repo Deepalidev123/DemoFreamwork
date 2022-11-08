@@ -1,0 +1,96 @@
+2022-11-08 10:50:00,709 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-08 11:20:22,075 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Automation Training\DemoProject\pom.xml
+2022-11-08 11:20:26,995 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Demo:DemoProject:0.0.1-SNAPSHOT @ C:\Automation Training\DemoProject\pom.xml.
+2022-11-08 11:20:29,337 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoProject/src/main/java
+2022-11-08 11:20:29,359 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoProject/src/test/java
+2022-11-08 11:20:31,928 [Worker-16: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2022-11-08 11:20:33,872 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:20:33,873 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\main\resources
+2022-11-08 11:20:33,876 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:20:33,877 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\test\resources
+2022-11-08 11:21:21,271 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:21:21,272 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\main\resources
+2022-11-08 11:21:21,278 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:21:21,278 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\test\resources
+2022-11-08 11:21:28,732 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:21:28,733 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\main\resources
+2022-11-08 11:21:28,737 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:21:28,737 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\test\resources
+2022-11-08 11:22:01,014 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:22:01,015 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\main\resources
+2022-11-08 11:22:01,018 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:22:01,018 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\test\resources
+2022-11-08 11:22:02,038 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:22:02,038 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\main\resources
+2022-11-08 11:22:02,041 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:22:02,043 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\test\resources
+2022-11-08 11:23:17,635 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Demo:DemoProject:0.0.1-SNAPSHOT @ C:\Automation Training\DemoProject\pom.xml.
+2022-11-08 11:23:24,818 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:23:24,819 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\main\resources
+2022-11-08 11:23:24,826 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:23:24,827 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\test\resources
+2022-11-08 11:26:09,118 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-11-08 11:26:10,131 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Demo:DemoProject:0.0.1-SNAPSHOT @ C:\Automation Training\DemoProject\pom.xml.
+2022-11-08 11:26:14,148 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoProject/src/main/java
+2022-11-08 11:26:14,150 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoProject/src/test/java
+2022-11-08 11:26:15,734 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2022-11-08 11:26:20,713 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:26:20,714 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\main\resources
+2022-11-08 11:26:20,718 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:26:20,719 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\test\resources
+2022-11-08 11:28:52,236 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:28:52,237 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\main\resources
+2022-11-08 11:28:52,240 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:28:52,240 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\test\resources
+2022-11-08 11:31:33,838 [ModalContext] INFO  o.a.s.c.u.s.e.EdDSASecurityProviderRegistrar - getOrCreateProvider(EdDSA) created instance of net.i2p.crypto.eddsa.EdDSASecurityProvider
+2022-11-08 11:31:33,950 [ModalContext] INFO  o.a.s.c.i.DefaultIoServiceFactoryFactory - No detected/configured IoServiceFactoryFactory using Nio2ServiceFactoryFactory
+2022-11-08 11:31:41,719 [sshd-JGitSshClient[5199d1f1]-nio2-thread-2] WARN  o.e.j.i.t.sshd.JGitClientSession - exceptionCaught(JGitClientSession[Deepalidev123@github.com/20.207.73.82:22])[state=Opened] SshException: Server key did not validate
+2022-11-08 11:31:41,778 [sshd-JGitSshClient[5199d1f1]-nio2-thread-2] INFO  o.e.j.i.t.sshd.JGitClientSession - Disconnecting(JGitClientSession[Deepalidev123@github.com/20.207.73.82:22]): SSH2_DISCONNECT_HOST_KEY_NOT_VERIFIABLE - Server key did not validate
+2022-11-08 11:31:59,695 [sshd-JGitSshClient[41661f2d]-nio2-thread-2] WARN  o.e.j.i.t.sshd.JGitClientSession - exceptionCaught(JGitClientSession[git@github.com/20.207.73.82:22])[state=Opened] SshException: Server key did not validate
+2022-11-08 11:31:59,714 [sshd-JGitSshClient[41661f2d]-nio2-thread-2] INFO  o.e.j.i.t.sshd.JGitClientSession - Disconnecting(JGitClientSession[git@github.com/20.207.73.82:22]): SSH2_DISCONNECT_HOST_KEY_NOT_VERIFIABLE - Server key did not validate
+2022-11-08 11:35:35,377 [main] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\dipali\git\AvcomCMS\.git]
+2022-11-08 11:35:39,270 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:35:39,271 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\main\resources
+2022-11-08 11:35:39,274 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:35:39,275 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\test\resources
+2022-11-08 11:35:55,107 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:35:55,108 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\main\resources
+2022-11-08 11:35:55,111 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:35:55,111 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\test\resources
+2022-11-08 11:38:41,959 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:38:41,959 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\main\resources
+2022-11-08 11:38:41,962 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:38:41,962 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\test\resources
+2022-11-08 11:40:42,615 [Worker-23: Git Repository Change Scanner] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\dipali\git\repositoryDemoProject\.git]
+2022-11-08 11:47:26,294 [Worker-25: Git Repository Change Scanner] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\dipali\git\repository\.git]
+2022-11-08 11:59:05,192 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:59:05,193 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\main\resources
+2022-11-08 11:59:05,195 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:59:05,195 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\test\resources
+2022-11-08 11:59:19,042 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:59:19,042 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\main\resources
+2022-11-08 11:59:19,047 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:59:19,048 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Automation Training\DemoProject\src\test\resources
+2022-11-08 11:59:33,681 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-11-08 11:59:34,713 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Demo:DemoProject:0.0.1-SNAPSHOT @ C:\Users\dipali\git\repositoryDemoProject\DemoProject\pom.xml.
+2022-11-08 11:59:37,112 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoProject/src/main/java
+2022-11-08 11:59:37,114 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DemoProject/src/test/java
+2022-11-08 11:59:37,862 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2022-11-08 11:59:41,080 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:59:41,080 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dipali\git\repositoryDemoProject\DemoProject\src\main\resources
+2022-11-08 11:59:41,085 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 11:59:41,085 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dipali\git\repositoryDemoProject\DemoProject\src\test\resources
+2022-11-08 12:01:15,113 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Demo:DemoProject:0.0.1-SNAPSHOT @ C:\Users\dipali\git\repositoryDemoProject\DemoProject\pom.xml.
+2022-11-08 12:01:17,296 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 12:01:17,297 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dipali\git\repositoryDemoProject\DemoProject\src\main\resources
+2022-11-08 12:01:17,302 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 12:01:17,303 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dipali\git\repositoryDemoProject\DemoProject\src\test\resources
+2022-11-08 12:01:22,372 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 12:01:22,372 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dipali\git\repositoryDemoProject\DemoProject\src\main\resources
+2022-11-08 12:01:22,379 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 12:01:22,380 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dipali\git\repositoryDemoProject\DemoProject\src\test\resources
+2022-11-08 13:32:43,446 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-08 13:32:54,489 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 13:32:54,490 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dipali\git\repositoryDemoProject\DemoProject\src\main\resources
+2022-11-08 13:32:54,500 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-08 13:32:54,500 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\dipali\git\repositoryDemoProject\DemoProject\src\test\resources
